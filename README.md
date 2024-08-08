@@ -1,6 +1,4 @@
-# vscode-lotr-snippets
-
-```markdown
+## *English below
 # VSCode Snippets para Personajes de El Señor de los Anillos
 
 Este repositorio contiene snippets de Visual Studio Code para mis personajes favoritos de El Señor de los Anillos, disponibles en inglés y en español.
@@ -51,8 +49,7 @@ En un archivo JavaScript, escribe `lotrCharactersEN` o `lotrCharactersES` y sele
 Siéntete libre de forkear este repositorio, agregar tus propios snippets y hacer un pull request.
 
 ---
-# ENGLISH
-
+# ENGLISH                              
 # VSCode Snippets for LOTR Characters
 
 This repository contains Visual Studio Code snippets for my favourite characters from The Lord of the Rings, available in both English and Spanish.
